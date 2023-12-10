@@ -246,7 +246,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fishprefab: {fileID: 2525150157907656913, guid: 680e88fd3dacae94db67be36bc83008a, type: 3}
   numfish: 20
-  swimlimits: {x: 50, y: 50, z: 50}
+  swimlimits: {x: 30, y: 30, z: 30}
   minSpeed: 0
   maxSpeed: 22
   neighbourDistance: 56.2
@@ -301,7 +301,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fishprefab: {fileID: 6118996171768932631, guid: 50222beb187e9344e8d68b7048f3b612, type: 3}
   numfish: 20
-  swimlimits: {x: 50, y: 50, z: 50}
+  swimlimits: {x: 30, y: 30, z: 30}
   minSpeed: 30
   maxSpeed: 45
   neighbourDistance: 70
